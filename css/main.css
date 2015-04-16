@@ -88,7 +88,7 @@ p {
   background-color: #cbe8a5;
   border-top: 2px solid #9fb681;
   padding-bottom: 1.5em;
-
+  position: relative;
 }
 
 .menu a {
@@ -117,4 +117,18 @@ h5 {
 li {
   padding: 0;
   text-decoration: none;
+}
+
+.left {
+  padding: 1em;
+
+}
+
+.right {
+  padding: 1em;
+  float: left;
+}
+
+.man {
+  position: absolute;
 }
