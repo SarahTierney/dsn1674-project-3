@@ -25,7 +25,7 @@ nav ul {
 }
 
 nav li {
-  text-align: left;
+  text-align: center;
   float: left;
   width: 50%;
   border: 1px solid #9fb681;
@@ -88,7 +88,6 @@ p {
   background-color: #cbe8a5;
   border-top: 2px solid #9fb681;
   padding-bottom: 1.5em;
-  position: relative;
 }
 
 .menu a {
@@ -121,14 +120,70 @@ li {
 
 .left {
   padding: 1em;
-
 }
 
 .right {
   padding: 1em;
-  float: left;
 }
 
 .man {
-  position: absolute;
+  }
+
+
+.food {
+  width: 40%;
+  clear: left;
+  float: left;
+  padding: 0.5em;
+}
+
+.list {
+}
+
+
+.salad1 {
+  width: 40%;
+  float: left;
+  padding: 0.5em;
+}
+
+.hot-food {
+  width: 40%;
+  clear: left;
+  float: left;
+  padding: 0.5em;
+}
+.dessert {
+  clear: left;
+  width: 40%;
+  float: left;
+  padding: 0.5em;
+}
+
+
+h6 {
+  text-align: center;
+  color: #000;
+  padding: 0.5em 1em 0em 0.5em;
+  font-size: 1.5em;
+  font-weight: 700;
+  right: 70%;
+  bottom: 20px;
+  margin: 0;
+}
+
+
+footer {
+  background-color: #9fb681;
+  text-align: center;
+  padding: 1.5em;
+}
+
+.top {
+  color: #fff;
+
+}
+
+.top:hover {
+  color: #cbe8a5;
 }
