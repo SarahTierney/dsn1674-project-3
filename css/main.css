@@ -1,0 +1,93 @@
+html {
+  box-sizing: border-box;
+  color: #000;
+  font-family: 'Raleway', sans-serif;}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  overflow: hidden;
+  margin: 0;
+  clear: left;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  text-align: left;
+  float: left;
+  width: 50%;
+  border: 1px solid #9fb681;
+  background-color: #cbe8a5;
+}
+
+nav a {
+  padding: 0.5em;
+  margin: 0em;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.15rem;
+  display: block;
+}
+
+nav a:hover {
+  background-color: #9fb681;
+}
+
+.banner {
+  width: 100%;
+  margin: 0;
+  position: relative;
+}
+
+.header {
+  position: relative;
+}
+
+h1 {
+  color: #fff;
+  font-size: 5em;
+  font-weight: 400;
+  position: absolute;
+  right: 70%;
+  top: 20px;
+  text-shadow: 1px 2px 6px #000;
+  margin: 0;
+  -webkit-transform: translateX(50%);
+  transform: translateX(50%);
+}
+
+h2 {
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: 700;
+  position: absolute;
+  right: 70%;
+  bottom: 20px;
+  margin: 0;
+  -webkit-transform: translateX(50%);
+  transform: translateX(50%);
+}
+
+h3 {
+  font-weight: 400;
+  padding-left: 1em;
+  padding-right: 1em;
+
+}
+
+.menu {
+  background-color: #cbe8a5;
+  border-top: 0.15em solid #9fb681;
+}
