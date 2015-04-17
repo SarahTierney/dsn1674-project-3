@@ -90,6 +90,7 @@ p {
   background-color: #cbe8a5;
   padding: 1em 0.5em 0.5em 0.5em;
   overflow: hidden;
+  margin: 0;
 }
 
 .box-4 {
@@ -213,6 +214,11 @@ li {
   padding: 1em 0 0 1em;
 }
 
+.soup{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 
 h6 {
   text-align: center;
@@ -242,6 +248,9 @@ footer {
   color: #cbe8a5;
 }
 
+img {
+  display: block;
+}
 
 /*cbe8a5
 9fb681
