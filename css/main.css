@@ -34,7 +34,7 @@ nav li {
   float: left;
   width: 50%;
   border: 1px solid #9fb681;
-  background-color: #cbe8a5;
+  background-color: #bfd879;
 }
 
 nav a {
@@ -92,7 +92,7 @@ p {
 }
 
 .box {
-  background-color: #cbe8a5;
+  background-color: #bfd879;
   padding: 1em 0.5em 0.5em 0.5em;
   overflow: hidden;
   margin: 0;
@@ -239,7 +239,7 @@ h6 {
 
 
 footer {
-  background-color: #cbe8a5;
+  background-color: #bfd879;
   text-align: center;
   padding: 1.5em;
 }
