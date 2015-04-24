@@ -50,12 +50,6 @@ nav a:hover {
   background-color: #9fb681;
 }
 
-.banner {
-  width: 100%;
-  margin: 0;
-  position: relative;
-}
-
 .header {
   background-image:  url(../images/salad1.jpg);
   background-size: cover;
@@ -124,10 +118,6 @@ p {
   margin: 0;
 }
 
-.menu a {
-  text-decoration: none;
-}
-
 h4 {
   font-size: 2.5em;
   font-weight: 400;
@@ -137,10 +127,6 @@ h4 {
   background-color: #fff;
   border-top: 3px solid #9fb681;
 
-}
-
-.bottom {
-  margin: 2000px 0 0;
 }
 
 h5 {
@@ -178,26 +164,6 @@ li {
   padding: 0;
 }
 
-.man-text1 {
-  font-weight: 700;
-  float: left;
-  width: 50%;
-  padding: 0 0 0 1em;
-}
-
-.man-text2 {
-  font-weight: 700;
-  float: left;
-  width: 50%;
-  padding: 1em 0 0 1em;
-}
-
-.food {
-  width: 40%;
-  clear: left;
-  float: left;
-  padding: 0.5em;
-}
 
 .salad1 {
   border: 2px solid #9fb681;
@@ -295,10 +261,3 @@ footer {
 .top:hover {
   color: #9fb681;
 }
-
-
-
-/*cbe8a5
-9fb681
-linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.5)),
-*/
